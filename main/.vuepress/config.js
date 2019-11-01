@@ -70,7 +70,7 @@ module.exports = {
         },
         {
           title: 'ERTP API',
-          path: '/ertp/api/',
+          path: '/ertp/api/mint',
           collapsable: false,
           sideBarDepth: 3,
           children: [

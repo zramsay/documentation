@@ -57,7 +57,7 @@ module.exports = [
       {
         text: 'API',
         ariaLabel: 'ERTP API Link',
-        link: '/ertp/api/'
+        link: '/ertp/api/mint'
       },
       {
         text: 'Github',
